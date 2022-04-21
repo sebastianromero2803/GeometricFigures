@@ -1,0 +1,16 @@
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.exe
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.deps.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.runtimeconfig.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.runtimeconfig.dev.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\bin\Debug\net5.0\GeometricFigures.pdb
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.csproj.AssemblyReference.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.AssemblyInfo.cs
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\refint\GeometricFigures.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.pdb
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\GeometricFigures.genruntimeconfig.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\GeometricFigures\obj\Debug\net5.0\ref\GeometricFigures.dll
